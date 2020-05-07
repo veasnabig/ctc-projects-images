@@ -1,0 +1,10 @@
+ATELIER TTME à MASSY
+
+Il s'agit du site de maintenance et de remisage des trams et trains comprenant 10 corps d'état. Le site a été construit sous des contraintes techniques (interfaces ferroviaires) et environnementales telque zone inondable, préservation de la faune et flore CNPN et certification HQE.
+
+La surface plancher total des bâtiments est de 9 621 m².
+Atelier, Bâtiment Administratif et Bâtiment Annexe : 8 144 m²
+Local gardien : 27 m²
+Local outillage : 35 m²
+Couverture de fosse extérieure : 1 300 m²
+Local déchet : 115 m²
